@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000002l_94        -            233 1786618at2           -            112   1.9e-18   65.4   0.0   1   1   7.3e-22   3.1e-18   64.7   0.0    11   110    68   179    65   181 0.87 # 147496 # 148194 # 1 # ID=2_94;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396
+ptg000004l_174       -            222 1786618at2           -            112     0.013   14.4   0.0   1   1     2e-05     0.087   11.8   0.0    19   110    57   166    47   168 0.63 # 262691 # 263356 # 1 # ID=4_174;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=10bp;gc_cont=0.441
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/1786618at2.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_bacteria_odb10/hmmer_output/1786618at2.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/1786618at2.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:00:37 2023
+# [ok]

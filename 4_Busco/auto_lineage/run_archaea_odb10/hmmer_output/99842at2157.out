@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000002l_102       -            382 99842at2157          -            124    0.0046   15.8   4.5   1   4     0.011        45    2.9   0.0    37    57    53    73    38   111 0.77 # 161493 # 162638 # 1 # ID=2_102;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.462
+ptg000002l_102       -            382 99842at2157          -            124    0.0046   15.8   4.5   2   4     0.009        38    3.2   0.0    32    54   161   183   144   196 0.81 # 161493 # 162638 # 1 # ID=2_102;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.462
+ptg000002l_102       -            382 99842at2157          -            124    0.0046   15.8   4.5   3   4   0.00011      0.47    9.3   0.0    29    69   260   300   251   320 0.84 # 161493 # 162638 # 1 # ID=2_102;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.462
+ptg000002l_102       -            382 99842at2157          -            124    0.0046   15.8   4.5   4   4      0.47     2e+03   -2.4   0.1    42    73   333   364   328   372 0.73 # 161493 # 162638 # 1 # ID=2_102;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.462
+ptg000002l_471       -            414 99842at2157          -            124     0.012   14.5   0.1   1   3      0.33   1.4e+03   -1.9   0.0    39    54    78    93    68   103 0.69 # 678200 # 679441 # 1 # ID=2_471;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415
+ptg000002l_471       -            414 99842at2157          -            124     0.012   14.5   0.1   2   3    0.0028        12    4.8   0.0    31    57   152   178   132   181 0.87 # 678200 # 679441 # 1 # ID=2_471;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415
+ptg000002l_471       -            414 99842at2157          -            124     0.012   14.5   0.1   3   3   0.00096       4.1    6.3   0.0    33    55   336   358   330   368 0.85 # 678200 # 679441 # 1 # ID=2_471;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/99842at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/99842at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/99842at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:47 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000013l_65        -            505 89321at2157          -            172   1.2e-44  151.1   0.1   1   2   4.2e-08   8.9e-05   21.3   0.0     5    50   162   207   158   221 0.85 # 80202 # 81716 # 1 # ID=13_65;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.364
+ptg000013l_65        -            505 89321at2157          -            172   1.2e-44  151.1   0.1   2   2     1e-40   2.1e-37  127.4   0.0    36   159   265   394   247   404 0.90 # 80202 # 81716 # 1 # ID=13_65;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.364
+ptg000011l_614       -            512 89321at2157          -            172   6.3e-42  142.2   4.3   1   3     0.094     2e+02    0.6   0.1    16    90    21    95    10   103 0.69 # 892014 # 893549 # -1 # ID=11_614;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.383
+ptg000011l_614       -            512 89321at2157          -            172   6.3e-42  142.2   4.3   2   3   3.4e-08   7.3e-05   21.5   0.0     6    47   152   193   148   221 0.87 # 892014 # 893549 # -1 # ID=11_614;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.383
+ptg000011l_614       -            512 89321at2157          -            172   6.3e-42  142.2   4.3   3   3   2.6e-38   5.5e-35  119.6   0.2    43   157   256   376   223   383 0.90 # 892014 # 893549 # -1 # ID=11_614;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.383
+ptg000008l_284       -            495 89321at2157          -            172   1.2e-10   40.4   0.1   1   1   1.3e-13   2.7e-10   39.2   0.1    14   156   169   318   159   325 0.82 # 429305 # 430789 # -1 # ID=8_284;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385
+ptg000007l_543       -            398 89321at2157          -            172       3.6    6.3   8.7   1   4     0.018        39    2.9   0.5    37    70   138   171   121   212 0.59 # 834627 # 835820 # 1 # ID=7_543;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+ptg000007l_543       -            398 89321at2157          -            172       3.6    6.3   8.7   2   4      0.19   4.1e+02   -0.5   0.0    18    51   240   273   228   327 0.67 # 834627 # 835820 # 1 # ID=7_543;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+ptg000007l_543       -            398 89321at2157          -            172       3.6    6.3   8.7   3   4     0.019        41    2.8   0.1    16    65   299   347   285   351 0.77 # 834627 # 835820 # 1 # ID=7_543;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+ptg000007l_543       -            398 89321at2157          -            172       3.6    6.3   8.7   4   4    0.0027       5.7    5.6   1.5    11    67   325   381   317   395 0.82 # 834627 # 835820 # 1 # ID=7_543;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/89321at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/89321at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/89321at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:46 2023
+# [ok]

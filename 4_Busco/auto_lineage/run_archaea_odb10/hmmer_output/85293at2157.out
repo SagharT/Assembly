@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000003l_104       -            113 85293at2157          -            128   3.7e-49  164.6   0.1   1   1   1.5e-52   4.4e-49  164.4   0.1    21   127     6   111     3   112 0.97 # 146995 # 147333 # -1 # ID=3_104;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.428
+ptg000008l_249       -            114 85293at2157          -            128   3.7e-49  164.6   0.1   1   1   1.5e-52   4.2e-49  164.4   0.1    21   127     7   112     3   113 0.97 # 369397 # 369738 # -1 # ID=8_249;partial=00;start_type=TTG;rbs_motif=AACAA;rbs_spacer=13bp;gc_cont=0.421
+ptg000014l_61        -            154 85293at2157          -            128   3.8e-13   48.2   0.2   1   1   2.3e-16   6.5e-13   47.5   0.2    21   109    48   127    32   140 0.86 # 83119 # 83580 # 1 # ID=14_61;partial=00;start_type=ATG;rbs_motif=AACAA;rbs_spacer=5bp;gc_cont=0.494
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/85293at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/85293at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/85293at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:45 2023
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000002l_92        -            580 14061at2157          -            452  1.4e-166  553.8   1.0   1   3  1.5e-107  2.5e-104  348.7   0.1     2   252     1   267     1   274 0.94 # 145297 # 147036 # -1 # ID=2_92;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402
+ptg000002l_92        -            580 14061at2157          -            452  1.4e-166  553.8   1.0   2   3   6.2e-09   1.1e-05   23.5   0.1   244   282   295   335   288   348 0.85 # 145297 # 147036 # -1 # ID=2_92;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402
+ptg000002l_92        -            580 14061at2157          -            452  1.4e-166  553.8   1.0   3   3   4.6e-56   7.8e-53  178.9   0.0   275   452   360   555   351   555 0.88 # 145297 # 147036 # -1 # ID=2_92;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402
+ptg000006l_85        -            579 14061at2157          -            452  5.2e-163  542.1   0.0   1   3  2.2e-108  3.8e-105  351.4   0.0     2   264     1   279     1   282 0.94 # 124206 # 125942 # -1 # ID=6_85;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455
+ptg000006l_85        -            579 14061at2157          -            452  5.2e-163  542.1   0.0   2   3     5e-08   8.6e-05   20.5   0.0   251   281   302   334   286   349 0.84 # 124206 # 125942 # -1 # ID=6_85;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455
+ptg000006l_85        -            579 14061at2157          -            452  5.2e-163  542.1   0.0   3   3   2.4e-52   4.1e-49  166.7   0.0   275   452   360   557   353   557 0.87 # 124206 # 125942 # -1 # ID=6_85;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455
+ptg000011l_605       -            412 14061at2157          -            452    0.0012   16.8   0.0   1   2   0.00081       1.4    6.7   0.0   311   337   256   282   219   303 0.73 # 878087 # 879322 # 1 # ID=11_605;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=8bp;gc_cont=0.423
+ptg000011l_605       -            412 14061at2157          -            452    0.0012   16.8   0.0   2   2   0.00027      0.47    8.2   0.0   386   450   305   367   290   369 0.82 # 878087 # 879322 # 1 # ID=11_605;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=8bp;gc_cont=0.423
+ptg000002l_489       -            553 14061at2157          -            452    0.0092   13.9   0.0   1   3     0.002       3.4    5.4   0.0   303   325    67    89    50   126 0.87 # 709586 # 711244 # -1 # ID=2_489;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413
+ptg000002l_489       -            553 14061at2157          -            452    0.0092   13.9   0.0   2   3    0.0027       4.6    5.0   0.0   391   437   152   198   128   210 0.79 # 709586 # 711244 # -1 # ID=2_489;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413
+ptg000002l_489       -            553 14061at2157          -            452    0.0092   13.9   0.0   3   3      0.18     3e+02   -1.0   0.0    21    59   384   425   371   499 0.63 # 709586 # 711244 # -1 # ID=2_489;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413
+ptg000014l_66        -            788 14061at2157          -            452      0.01   13.7   0.0   1   2   1.8e-05      0.03   12.2   0.0   311   338   104   131    81   145 0.84 # 87943 # 90306 # -1 # ID=14_66;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418
+ptg000014l_66        -            788 14061at2157          -            452      0.01   13.7   0.0   2   2       1.1   1.9e+03   -3.6   0.0   414   434   189   209   159   212 0.62 # 87943 # 90306 # -1 # ID=14_66;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/14061at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/14061at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/14061at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:37 2023
+# [ok]

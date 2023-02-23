@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000009l_126       -            155 85279at2157          -            122   6.4e-22   76.6   0.0   1   1   5.4e-25   1.5e-21   75.3   0.0    27   122    47   151    14   151 0.84 # 167627 # 168091 # -1 # ID=9_126;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391
+ptg000013l_40        -            487 85279at2157          -            122   8.2e-08   31.0   0.2   1   1   7.9e-11   2.2e-07   29.6   0.2    45   104   268   326   252   337 0.84 # 40307 # 41767 # 1 # ID=13_40;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396
+ptg000005l_470       -            566 85279at2157          -            122   3.8e-05   22.4   0.0   1   2   5.9e-08   0.00017   20.3   0.0    54   120   101   174    64   176 0.84 # 664234 # 665931 # -1 # ID=5_470;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370
+ptg000005l_470       -            566 85279at2157          -            122   3.8e-05   22.4   0.0   2   2      0.42   1.2e+03   -1.8   0.0    13    51   216   256   197   262 0.65 # 664234 # 665931 # -1 # ID=5_470;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/85279at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/85279at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/85279at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:45 2023
+# [ok]

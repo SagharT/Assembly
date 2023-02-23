@@ -1,0 +1,17 @@
+#                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name            accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#    ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000005l:87969-88436   -            156 1538526at2759        -            105   9.3e-43  140.2   2.7   1   1   5.7e-45   1.1e-42  139.9   2.3     2    95    28   125    27   149 0.93 -
+ptg000009l:103326-103706 -            127 1538526at2759        -            105   1.5e-23   78.4   0.0   1   1   8.9e-26   1.8e-23   78.2   0.0     3    95     9   105     7   114 0.89 -
+ptg000015l:32547-32990   -            148 1538526at2759        -            105   2.4e-12   42.4   0.1   1   1   1.8e-14   3.5e-12   41.9   0.1    28    98    28   100     6   106 0.89 -
+ptg000004l:33433-33882   -            150 1538526at2759        -            105   3.2e-12   42.0   0.1   1   1   2.4e-14   4.7e-12   41.5   0.1    28    98    28   100     7   106 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/eukaryota_odb10/hmms/1538526at2759.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/metaeuk_output/initial_results/output.bp.p_ctg.fa.modified.fas
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/hmmer_output/initial_run_results/1538526at2759.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/eukaryota_odb10/hmms/1538526at2759.hmm /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/metaeuk_output/initial_results/output.bp.p_ctg.fa.modified.fas 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:08:08 2023
+# [ok]

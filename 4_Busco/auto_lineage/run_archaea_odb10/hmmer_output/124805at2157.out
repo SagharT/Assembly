@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000009l_234       -            120 124805at2157         -             95   1.7e-11   42.7   0.0   1   1   6.3e-15   2.7e-11   42.1   0.0    13    93     1    83     1    85 0.91 # 307839 # 308198 # 1 # ID=9_234;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.442
+ptg000016l_168       -            120 124805at2157         -             95   1.7e-11   42.7   0.0   1   1   6.3e-15   2.7e-11   42.1   0.0    13    93     1    83     1    85 0.91 # 220095 # 220454 # 1 # ID=16_168;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/124805at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/124805at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/124805at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:36 2023
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000014l_209       -            144 1772647at2           -            100     5e-15   54.6   1.1   1   2     0.018        52    3.2   0.1    11    32    12    34     2    39 0.73 # 301323 # 301754 # 1 # ID=14_209;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.412
+ptg000014l_209       -            144 1772647at2           -            100     5e-15   54.6   1.1   2   2   3.5e-17     1e-13   50.4   0.2    42    91    65   114    43   123 0.80 # 301323 # 301754 # 1 # ID=14_209;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.412
+ptg000007l_133       -            131 1772647at2           -            100   2.4e-09   36.4   5.3   1   2   0.00014      0.39   10.0   0.1     8    60     5    57     1    64 0.83 # 206510 # 206902 # -1 # ID=7_133;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420
+ptg000007l_133       -            131 1772647at2           -            100   2.4e-09   36.4   5.3   2   2   2.8e-10   7.8e-07   28.3   1.6    43    88    88   129    70   130 0.77 # 206510 # 206902 # -1 # ID=7_133;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420
+ptg000005l_913       -            130 1772647at2           -            100   2.7e-09   36.2   5.4   1   2   0.00015      0.43    9.9   0.1     8    60     4    56     1    63 0.83 # 1340761 # 1341150 # 1 # ID=5_913;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415
+ptg000005l_913       -            130 1772647at2           -            100   2.7e-09   36.2   5.4   2   2   2.7e-10   7.7e-07   28.3   1.6    43    88    87   128    69   129 0.77 # 1340761 # 1341150 # 1 # ID=5_913;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/1772647at2.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_bacteria_odb10/hmmer_output/1772647at2.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/1772647at2.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:00:37 2023
+# [ok]

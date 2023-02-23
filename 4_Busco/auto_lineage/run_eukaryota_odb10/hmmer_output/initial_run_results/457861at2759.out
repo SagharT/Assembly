@@ -1,0 +1,16 @@
+#                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name            accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#    ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000003l:670606-671487 -            294 457861at2759         -            164   2.9e-11   39.1   9.7   1   3   2.6e-06    0.0021   13.6   2.3    29    59    48    95     2   123 0.68 -
+ptg000003l:670606-671487 -            294 457861at2759         -            164   2.9e-11   39.1   9.7   2   3   1.6e-08   1.3e-05   20.8   0.2    65   123   137   207   121   230 0.83 -
+ptg000003l:670606-671487 -            294 457861at2759         -            164   2.9e-11   39.1   9.7   3   3     0.045        36   -0.2   0.0   137   163   249   280   246   281 0.65 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/eukaryota_odb10/hmms/457861at2759.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/metaeuk_output/initial_results/output.bp.p_ctg.fa.modified.fas
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/hmmer_output/initial_run_results/457861at2759.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/eukaryota_odb10/hmms/457861at2759.hmm /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/metaeuk_output/initial_results/output.bp.p_ctg.fa.modified.fas 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:08:13 2023
+# [ok]

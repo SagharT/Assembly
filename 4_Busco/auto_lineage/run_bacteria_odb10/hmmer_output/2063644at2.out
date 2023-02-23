@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000005l_152       -            101 2063644at2           -             40     3e-05   22.5   1.1   1   2   7.1e-09     3e-05   22.5   1.1     7    40     4    41     2    41 0.86 # 218506 # 218808 # 1 # ID=5_152;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+ptg000005l_152       -            101 2063644at2           -             40     3e-05   22.5   1.1   2   2      0.66   2.8e+03   -3.0   0.1    24    31    83    90    82    90 0.72 # 218506 # 218808 # 1 # ID=5_152;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+ptg000005l_85        -            105 2063644at2           -             40   3.3e-05   22.4   1.0   1   2   7.7e-09   3.3e-05   22.4   1.0     7    40     8    45     6    45 0.86 # 118662 # 118976 # 1 # ID=5_85;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+ptg000005l_85        -            105 2063644at2           -             40   3.3e-05   22.4   1.0   2   2       0.8   3.4e+03   -3.2   0.2    24    31    87    94    87    94 0.72 # 118662 # 118976 # 1 # ID=5_85;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/2063644at2.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_bacteria_odb10/hmmer_output/2063644at2.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/2063644at2.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:00:39 2023
+# [ok]

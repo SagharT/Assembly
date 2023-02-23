@@ -1,0 +1,1 @@
+2023-02-23 22:58:18 DEBUG:busco.run_BUSCO	Command line: /home/inf-41-2022/miniconda3/envs/busco/bin/busco -i 2_assembly/output.bp.p_ctg.fa -l --auto-lineage -o Busco -m genome

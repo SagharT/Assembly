@@ -1,0 +1,24 @@
+#                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name            accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#    ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000011l:796160-797494 -            445 814241at2759         -            325     3e-63  209.3   0.0   1   1   4.3e-62   5.7e-60  198.5   0.0     6   324    41   440    36   441 0.76 -
+ptg000013l:172198-173793 -            532 814241at2759         -            325   0.00011   16.8   0.3   1   4   0.00088      0.12    6.9   0.0    75    98    19    42     5    64 0.84 -
+ptg000013l:172198-173793 -            532 814241at2759         -            325   0.00011   16.8   0.3   2   4    0.0013      0.17    6.3   0.1    75    94   257   276   252   289 0.91 -
+ptg000013l:172198-173793 -            532 814241at2759         -            325   0.00011   16.8   0.3   3   4      0.52        70   -2.3   0.0    37    64   284   311   279   314 0.84 -
+ptg000013l:172198-173793 -            532 814241at2759         -            325   0.00011   16.8   0.3   4   4      0.44        59   -2.0   0.0   177   207   492   522   485   525 0.77 -
+ptg000013l:158319-158969 -            217 814241at2759         -            325    0.0002   15.9   0.0   1   1   2.3e-06    0.0003   15.4   0.0    76   113     1    39     1    42 0.86 -
+ptg000004l:103133-106666 -           1178 814241at2759         -            325    0.0026   12.3   0.0   1   2    0.0004     0.054    8.0   0.0    28    93   238   304   234   307 0.82 -
+ptg000004l:103133-106666 -           1178 814241at2759         -            325    0.0026   12.3   0.0   2   2     0.048       6.4    1.1   0.0    74    94   949   969   920   986 0.77 -
+ptg000003l:818373-819314 -            314 814241at2759         -            325    0.0031   12.0   0.1   1   2     0.016       2.2    2.7   0.0    73    95    28    50    14    56 0.84 -
+ptg000003l:818373-819314 -            314 814241at2759         -            325    0.0031   12.0   0.1   2   2   0.00076       0.1    7.1   0.0    75    95   272   292   266   300 0.89 -
+ptg000005l:163914-164504 -            197 814241at2759         -            325    0.0037   11.8   0.0   1   1   4.5e-05     0.006   11.1   0.0    68    95     2    29     1    38 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/eukaryota_odb10/hmms/814241at2759.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/metaeuk_output/initial_results/output.bp.p_ctg.fa.modified.fas
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/hmmer_output/initial_run_results/814241at2759.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/eukaryota_odb10/hmms/814241at2759.hmm /home/inf-41-2022/Assembly/Busco/auto_lineage/run_eukaryota_odb10/metaeuk_output/initial_results/output.bp.p_ctg.fa.modified.fas 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:08:16 2023
+# [ok]

@@ -1,0 +1,235 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: archaea_odb10 (Creation date: 2021-02-23, number of genomes: 404, number of BUSCOs: 194)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+860at2157	Missing
+1642at2157	Duplicated	ptg000005l	1223749	1226277	+	495.5	608	https://www.orthodb.org/v10?query=1642at2157	Elongation factor 2
+1642at2157	Duplicated	ptg000011l	575802	578330	+	495.5	608	https://www.orthodb.org/v10?query=1642at2157	Elongation factor 2
+3905at2157	Duplicated	ptg000005l	205801	211002	-	705.5	661	https://www.orthodb.org/v10?query=3905at2157	DNA-directed RNA polymerase subunit
+3905at2157	Duplicated	ptg000011l	540467	544849	-	622.8	705	https://www.orthodb.org/v10?query=3905at2157	DNA-directed RNA polymerase subunit
+6590at2157	Complete	ptg000008l	72419	74674	+	277.8	388	https://www.orthodb.org/v10?query=6590at2157	Methionine--tRNA ligase
+6736at2157	Missing
+7046at2157	Duplicated	ptg000005l	1132322	1134145	-	223.3	409	https://www.orthodb.org/v10?query=7046at2157	Arginine--tRNA ligase
+7046at2157	Duplicated	ptg000015l	285754	287685	-	221.1	424	https://www.orthodb.org/v10?query=7046at2157	Arginine--tRNA ligase
+7724at2157	Complete	ptg000003l	556352	558025	+	331.9	378	https://www.orthodb.org/v10?query=7724at2157	tRNA uridine(34) 5-carboxymethylaminomethyl modification radical SAM/GNAT enzyme Elp3
+7896at2157	Complete	ptg000011l	941422	944298	-	189.9	372	https://www.orthodb.org/v10?query=7896at2157	Alanine--tRNA ligase
+8899at2157	Complete	ptg000002l	480194	481747	-	600.2	411	https://www.orthodb.org/v10?query=8899at2157	V-type ATP synthase beta chain
+8922at2157	Missing
+10236at2157	Missing
+13010at2157	Complete	ptg000005l	613766	615592	-	584.0	493	https://www.orthodb.org/v10?query=13010at2157	ribosome biogenesis/translation initiation ATPase RLI
+13531at2157	Complete	ptg000013l	409594	411036	-	217.1	322	https://www.orthodb.org/v10?query=13531at2157	Protein translocase subunit SecY
+13565at2157	Missing
+14061at2157	Duplicated	ptg000002l	145297	147036	-	553.8	465	https://www.orthodb.org/v10?query=14061at2157	CTP synthase
+14061at2157	Duplicated	ptg000006l	124206	125942	-	542.1	469	https://www.orthodb.org/v10?query=14061at2157	CTP synthase
+14454at2157	Complete	ptg000015l	140907	142985	+	342.3	319	https://www.orthodb.org/v10?query=14454at2157	Proline--tRNA ligase
+14889at2157	Complete	ptg000007l	355301	357973	+	133.1	528	https://www.orthodb.org/v10?query=14889at2157	V-type ATP synthase subunit I
+17053at2157	Complete	ptg000012l	141033	144041	-	363.7	442	https://www.orthodb.org/v10?query=17053at2157	translation initiation factor IF-2
+17629at2157	Complete	ptg000009l	237131	238480	-	306.3	339	https://www.orthodb.org/v10?query=17629at2157	Adenosylhomocysteinase
+18705at2157	Missing
+19750at2157	Fragmented	ptg000006l	469377	473045	+	35.8	470	https://www.orthodb.org/v10?query=19750at2157	ATPase
+21317at2157	Duplicated	ptg000008l	249314	250420	-	319.0	315	https://www.orthodb.org/v10?query=21317at2157	GTP-binding protein
+21317at2157	Duplicated	ptg000012l	144316	145425	+	289.4	315	https://www.orthodb.org/v10?query=21317at2157	GTP-binding protein
+22545at2157	Missing
+22747at2157	Complete	ptg000001l	176792	178303	+	349.9	490	https://www.orthodb.org/v10?query=22747at2157	phenylalanine--tRNA ligase subunit alpha
+22842at2157	Missing
+23182at2157	Missing
+23221at2157	Duplicated	ptg000008l	92032	93345	-	327.6	324	https://www.orthodb.org/v10?query=23221at2157	Enolase
+23221at2157	Duplicated	ptg000015l	452224	453537	+	324.6	325	https://www.orthodb.org/v10?query=23221at2157	Enolase
+23221at2157	Duplicated	ptg000007l	898152	899465	+	305.1	325	https://www.orthodb.org/v10?query=23221at2157	Enolase
+23221at2157	Duplicated	ptg000011l	1075465	1076778	+	304.9	325	https://www.orthodb.org/v10?query=23221at2157	Enolase
+23221at2157	Duplicated	ptg000003l	931996	933309	+	304.3	325	https://www.orthodb.org/v10?query=23221at2157	Enolase
+24257at2157	Missing
+24288at2157	Complete	ptg000004l	95466	97139	-	267.2	313	https://www.orthodb.org/v10?query=24288at2157	aspartate--tRNA(Asn) ligase
+25592at2157	Complete	ptg000009l	206608	208191	+	371.5	362	https://www.orthodb.org/v10?query=25592at2157	Translation initiation factor 2 subunit gamma
+25871at2157	Complete	ptg000003l	229735	231360	+	283.4	368	https://www.orthodb.org/v10?query=25871at2157	signal recognition particle protein
+29893at2157	Missing
+30130at2157	Complete	ptg000009l	351316	352518	+	208.7	224	https://www.orthodb.org/v10?query=30130at2157	DNA repair and recombination protein RadA
+31316at2157	Complete	ptg000017l	32347	33291	+	145.4	259	https://www.orthodb.org/v10?query=31316at2157	Dihydroorotate dehydrogenase
+31722at2157	Complete	ptg000011l	445361	446524	+	168.4	226	https://www.orthodb.org/v10?query=31722at2157	50S ribosomal protein L3
+32079at2157	Missing
+32191at2157	Complete	ptg000002l	519794	521107	-	271.1	364	https://www.orthodb.org/v10?query=32191at2157	peptide chain release factor 1
+32623at2157	Duplicated	ptg000002l	470289	472292	-	340.7	354	https://www.orthodb.org/v10?query=32623at2157	glycine--tRNA ligase
+32623at2157	Duplicated	ptg000003l	238793	240649	+	339.8	343	https://www.orthodb.org/v10?query=32623at2157	glycine--tRNA ligase
+35648at2157	Complete	ptg000014l	542186	543487	-	265.8	290	https://www.orthodb.org/v10?query=35648at2157	Adenylosuccinate synthetase
+35861at2157	Missing
+36028at2157	Complete	ptg000013l	40307	41767	+	263.7	250	https://www.orthodb.org/v10?query=36028at2157	Probable tRNA pseudouridine synthase B
+37207at2157	Duplicated	ptg000011l	136298	137269	-	330.1	326	https://www.orthodb.org/v10?query=37207at2157	Replication factor C small subunit
+37207at2157	Duplicated	ptg000014l	690640	691662	-	306.7	323	https://www.orthodb.org/v10?query=37207at2157	Replication factor C small subunit
+37207at2157	Duplicated	ptg000006l	177973	179034	-	292.6	327	https://www.orthodb.org/v10?query=37207at2157	Replication factor C small subunit
+37299at2157	Complete	ptg000007l	843282	844814	-	331.2	401	https://www.orthodb.org/v10?query=37299at2157	Amidophosphoribosyltransferase
+39322at2157	Missing
+41214at2157	Complete	ptg000017l	231852	233000	-	229.1	260	https://www.orthodb.org/v10?query=41214at2157	Flap endonuclease 1
+41305at2157	Fragmented	ptg000017l	172042	173055	-	68.7	183	https://www.orthodb.org/v10?query=41305at2157	Bifunctional NAD(P)H-hydrate repair enzyme
+43727at2157	Complete	ptg000006l	488788	490110	-	259.1	282	https://www.orthodb.org/v10?query=43727at2157	Ornithine carbamoyltransferase
+44076at2157	Complete	ptg000011l	549496	550950	-	184.3	207	https://www.orthodb.org/v10?query=44076at2157	serine protein kinase RIO
+46017at2157	Complete	ptg000010l	204663	205913	-	239.6	331	https://www.orthodb.org/v10?query=46017at2157	Phosphoglycerate kinase
+47919at2157	Complete	ptg000003l	303805	305385	+	180.3	355	https://www.orthodb.org/v10?query=47919at2157	Histidine--tRNA ligase
+48934at2157	Missing
+50844at2157	Complete	ptg000002l	238441	239301	-	147.5	194	https://www.orthodb.org/v10?query=50844at2157	di-trans,poly-cis-decaprenylcistransferase
+51351at2157	Complete	ptg000006l	580760	587404	+	267.2	233	https://www.orthodb.org/v10?query=51351at2157	Aspartate carbamoyltransferase
+52427at2157	Complete	ptg000008l	915479	916732	-	116.9	145	https://www.orthodb.org/v10?query=52427at2157	threonylcarbamoyl-AMP synthase
+54988at2157	Fragmented	ptg000003l	173775	175010	-	108.5	173	https://www.orthodb.org/v10?query=54988at2157	S-methyl-5-thioribose-1-phosphate isomerase
+55024at2157	Complete	ptg000004l	240751	242538	+	265.0	460	https://www.orthodb.org/v10?query=55024at2157	Phenylalanine--tRNA ligase beta subunit
+56027at2157	Missing
+57545at2157	Missing
+58019at2157	Missing
+58022at2157	Complete	ptg000008l	1056129	1058537	-	191.6	351	https://www.orthodb.org/v10?query=58022at2157	Phosphoribosylamine--glycine ligase
+58340at2157	Complete	ptg000005l	427828	428811	+	165.0	148	https://www.orthodb.org/v10?query=58340at2157	fibrillarin-like rRNA methylase
+59062at2157	Complete	ptg000008l	226754	227938	+	159.8	243	https://www.orthodb.org/v10?query=59062at2157	Tyrosine--tRNA ligase
+59314at2157	Duplicated	ptg000015l	77927	78889	-	93.0	172	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59314at2157	Duplicated	ptg000009l	359396	360352	-	92.0	161	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59314at2157	Duplicated	ptg000002l	93641	94705	+	90.4	168	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59861at2157	Missing
+60366at2157	Complete	ptg000014l	474498	475220	-	135.8	175	https://www.orthodb.org/v10?query=60366at2157	K Homology domain
+60670at2157	Missing
+60954at2157	Complete	ptg000008l	824440	825204	-	222.6	188	https://www.orthodb.org/v10?query=60954at2157	Ribosomal protein S5
+61613at2157	Missing
+61936at2157	Missing
+62508at2157	Missing
+63341at2157	Complete	ptg000008l	172484	173206	-	158.9	164	https://www.orthodb.org/v10?query=63341at2157	Ribosomal protein S2
+64860at2157	Complete	ptg000006l	566449	567600	+	92.6	194	https://www.orthodb.org/v10?query=64860at2157	tRNA (adenine-N1)-methyltransferase
+65833at2157	Duplicated	ptg000005l	472317	473405	+	178.4	246	https://www.orthodb.org/v10?query=65833at2157	50S ribosomal protein L4
+65833at2157	Duplicated	ptg000002l	290946	292034	+	178.2	246	https://www.orthodb.org/v10?query=65833at2157	50S ribosomal protein L4
+66209at2157	Complete	ptg000003l	569877	571820	-	225.6	287	https://www.orthodb.org/v10?query=66209at2157	GTP-binding protein
+66811at2157	Missing
+69351at2157	Missing
+70269at2157	Missing
+70525at2157	Complete	ptg000003l	349695	350432	+	164.1	179	https://www.orthodb.org/v10?query=70525at2157	Translation initiation factor 6
+70865at2157	Complete	ptg000005l	671844	673556	-	122.6	215	https://www.orthodb.org/v10?query=70865at2157	tRNA (guanine(26)-N(2))-dimethyltransferase
+72726at2157	Duplicated	ptg000003l	195928	196935	+	146.7	190	https://www.orthodb.org/v10?query=72726at2157	DNA-directed RNA polymerase subunit D
+72726at2157	Duplicated	ptg000016l	138479	139435	-	134.5	183	https://www.orthodb.org/v10?query=72726at2157	DNA-directed RNA polymerase subunit D
+73593at2157	Complete	ptg000013l	339758	340696	+	139.4	222	https://www.orthodb.org/v10?query=73593at2157	50S ribosomal protein L10
+74812at2157	Duplicated	ptg000001l	49238	50044	+	168.0	172	https://www.orthodb.org/v10?query=74812at2157	Ribosomal protein L2
+74812at2157	Duplicated	ptg000016l	134407	135087	-	168.0	171	https://www.orthodb.org/v10?query=74812at2157	Ribosomal protein L2
+75288at2157	Missing
+76134at2157	Missing
+76877at2157	Missing
+78046at2157	Duplicated	ptg000007l	429271	429945	-	136.1	164	https://www.orthodb.org/v10?query=78046at2157	Pyridoxal 5'-phosphate synthase subunit PdxT
+78046at2157	Duplicated	ptg000014l	765007	765675	+	132.6	175	https://www.orthodb.org/v10?query=78046at2157	Pyridoxal 5'-phosphate synthase subunit PdxT
+78046at2157	Duplicated	ptg000001l	261009	261677	+	131.8	175	https://www.orthodb.org/v10?query=78046at2157	Pyridoxal 5'-phosphate synthase subunit PdxT
+79065at2157	Missing
+79845at2157	Missing
+80498at2157	Complete	ptg000006l	94115	94792	-	170.3	164	https://www.orthodb.org/v10?query=80498at2157	30S ribosomal protein S7
+80501at2157	Complete	ptg000011l	600534	601358	-	84.8	170	https://www.orthodb.org/v10?query=80501at2157	RNA-processing protein
+80629at2157	Duplicated	ptg000014l	277687	278262	-	120.4	144	https://www.orthodb.org/v10?query=80629at2157	Ribosomal protein L6, alpha-beta domain
+80629at2157	Duplicated	ptg000008l	874489	875064	+	118.9	143	https://www.orthodb.org/v10?query=80629at2157	Ribosomal protein L6, alpha-beta domain
+82104at2157	Complete	ptg000004l	262691	263356	+	108.5	126	https://www.orthodb.org/v10?query=82104at2157	50S ribosomal protein L10e
+82755at2157	Missing
+82853at2157	Complete	ptg000002l	48676	49941	-	131.9	204	https://www.orthodb.org/v10?query=82853at2157	Methionine aminopeptidase
+83050at2157	Missing
+84219at2157	Duplicated	ptg000007l	206510	206902	-	97.1	106	https://www.orthodb.org/v10?query=84219at2157	30S ribosomal protein S13
+84219at2157	Duplicated	ptg000005l	1340761	1341150	+	96.8	106	https://www.orthodb.org/v10?query=84219at2157	30S ribosomal protein S13
+84684at2157	Complete	ptg000006l	299859	300773	-	96.8	165	https://www.orthodb.org/v10?query=84684at2157	Translation initiation factor 2 subunit alpha
+85023at2157	Duplicated	ptg000004l	187723	188337	-	148.8	148	https://www.orthodb.org/v10?query=85023at2157	Ribosomal protein L15e
+85023at2157	Duplicated	ptg000007l	487991	488605	-	148.6	147	https://www.orthodb.org/v10?query=85023at2157	Ribosomal protein L15e
+85279at2157	Complete	ptg000009l	167627	168091	-	76.6	95	https://www.orthodb.org/v10?query=85279at2157	RNA-binding protein
+85293at2157	Duplicated	ptg000003l	146995	147333	-	164.6	106	https://www.orthodb.org/v10?query=85293at2157	30S ribosomal protein S12
+85293at2157	Duplicated	ptg000008l	369397	369738	-	164.6	106	https://www.orthodb.org/v10?query=85293at2157	30S ribosomal protein S12
+87367at2157	Duplicated	ptg000016l	347402	348010	+	78.9	118	https://www.orthodb.org/v10?query=87367at2157	50S ribosomal protein L13
+87367at2157	Duplicated	ptg000014l	283430	283987	+	76.8	116	https://www.orthodb.org/v10?query=87367at2157	50S ribosomal protein L13
+87520at2157	Complete	ptg000016l	273513	274790	-	121.3	258	https://www.orthodb.org/v10?query=87520at2157	diphthamide biosynthesis enzyme Dph2
+88531at2157	Fragmented	ptg000011l	55235	55744	-	37.6	80	https://www.orthodb.org/v10?query=88531at2157	6,7-dimethyl-8-ribityllumazine synthase
+89321at2157	Complete	ptg000013l	80202	81716	+	151.1	168	https://www.orthodb.org/v10?query=89321at2157	nucleolar
+89943at2157	Duplicated	ptg000006l	43821	44666	+	130.4	169	https://www.orthodb.org/v10?query=89943at2157	Ribosomal protein S4e
+89943at2157	Duplicated	ptg000015l	505371	506099	-	116.4	166	https://www.orthodb.org/v10?query=89943at2157	Ribosomal protein S4e
+90096at2157	Missing
+90641at2157	Missing
+90817at2157	Missing
+90882at2157	Complete	ptg000007l	662677	664008	+	77.9	163	https://www.orthodb.org/v10?query=90882at2157	Mevalonate kinase
+91154at2157	Complete	ptg000006l	677805	678197	+	145.1	115	https://www.orthodb.org/v10?query=91154at2157	30S ribosomal protein S8
+91297at2157	Missing
+91632at2157	Duplicated	ptg000002l	61135	61482	-	123.6	104	https://www.orthodb.org/v10?query=91632at2157	50S ribosomal protein L14
+91632at2157	Duplicated	ptg000009l	398560	398907	+	123.6	104	https://www.orthodb.org/v10?query=91632at2157	50S ribosomal protein L14
+91936at2157	Missing
+92409at2157	Complete	ptg000014l	715488	715922	+	94.8	120	https://www.orthodb.org/v10?query=92409at2157	30S ribosomal protein S19e
+92795at2157	Complete	ptg000011l	785399	787429	-	102.4	195	https://www.orthodb.org/v10?query=92795at2157	tRNA pseudouridine(13) synthase TruD
+93236at2157	Complete	ptg000009l	59790	60560	+	86.6	161	https://www.orthodb.org/v10?query=93236at2157	V-type ATP synthase subunit D
+93256at2157	Duplicated	ptg000002l	593916	594434	+	99.6	113	https://www.orthodb.org/v10?query=93256at2157	30S ribosomal protein S4
+93256at2157	Duplicated	ptg000003l	536754	537278	-	99.4	113	https://www.orthodb.org/v10?query=93256at2157	30S ribosomal protein S4
+94875at2157	Missing
+94889at2157	Complete	ptg000006l	177279	177872	+	106.8	167	https://www.orthodb.org/v10?query=94889at2157	non-canonical purine NTP pyrophosphatase
+95578at2157	Fragmented	ptg000016l	72108	73337	+	55.3	173	https://www.orthodb.org/v10?query=95578at2157	DNA primase small subunit PriS
+96138at2157	Duplicated	ptg000013l	546360	547127	-	139.0	187	https://www.orthodb.org/v10?query=96138at2157	30S ribosomal protein S3Ae
+96138at2157	Duplicated	ptg000007l	141700	142467	+	137.2	185	https://www.orthodb.org/v10?query=96138at2157	30S ribosomal protein S3Ae
+97230at2157	Duplicated	ptg000008l	448235	448759	+	143.6	124	https://www.orthodb.org/v10?query=97230at2157	Ribosomal protein L5
+97230at2157	Duplicated	ptg000003l	211015	211539	+	143.6	124	https://www.orthodb.org/v10?query=97230at2157	Ribosomal protein L5
+98179at2157	Complete	ptg000005l	566996	567493	+	107.6	111	https://www.orthodb.org/v10?query=98179at2157	30S ribosomal protein S15
+98187at2157	Missing
+98221at2157	Missing
+98657at2157	Complete	ptg000011l	504254	505030	-	135.8	183	https://www.orthodb.org/v10?query=98657at2157	Ribose-5-phosphate isomerase A
+99236at2157	Complete	ptg000011l	247864	248292	-	117.5	110	https://www.orthodb.org/v10?query=99236at2157	30S ribosomal protein S19
+99734at2157	Complete	ptg000003l	902715	903671	-	136.4	171	https://www.orthodb.org/v10?query=99734at2157	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+99842at2157	Missing
+101957at2157	Missing
+102178at2157	Missing
+102360at2157	Complete	ptg000013l	35431	36333	-	206.0	217	https://www.orthodb.org/v10?query=102360at2157	Diphthine synthase
+102399at2157	Missing
+103467at2157	Fragmented	ptg000017l	116410	116754	+	66.1	84	https://www.orthodb.org/v10?query=103467at2157	50S ribosomal protein L22
+104254at2157	Fragmented	ptg000011l	94039	94455	-	34.6	71	https://www.orthodb.org/v10?query=104254at2157	50S ribosomal protein L18e
+104636at2157	Missing
+104702at2157	Missing
+104786at2157	Missing
+105095at2157	Fragmented	ptg000011l	872418	872873	-	44.5	64	https://www.orthodb.org/v10?query=105095at2157	TIGR00270 family protein
+105165at2157	Missing
+105421at2157	Complete	ptg000014l	286703	287626	-	50.6	91	https://www.orthodb.org/v10?query=105421at2157	ribonuclease HII
+105604at2157	Missing
+105851at2157	Missing
+106462at2157	Complete	ptg000017l	321955	322416	+	148.3	121	https://www.orthodb.org/v10?query=106462at2157	Nucleoside diphosphate kinase
+106603at2157	Missing
+107015at2157	Duplicated	ptg000008l	546078	546455	-	78.7	100	https://www.orthodb.org/v10?query=107015at2157	50S ribosomal protein L24
+107015at2157	Duplicated	ptg000013l	353549	354013	+	77.5	100	https://www.orthodb.org/v10?query=107015at2157	50S ribosomal protein L24
+107212at2157	Missing
+107993at2157	Complete	ptg000015l	72688	73053	+	82.1	92	https://www.orthodb.org/v10?query=107993at2157	Ribosomal protein S10
+108145at2157	Duplicated	ptg000002l	324147	324590	+	121.6	103	https://www.orthodb.org/v10?query=108145at2157	30S ribosomal protein S17
+108145at2157	Duplicated	ptg000005l	492435	492788	+	120.9	96	https://www.orthodb.org/v10?query=108145at2157	30S ribosomal protein S17
+108717at2157	Fragmented	ptg000003l	638784	639677	-	100.4	122	https://www.orthodb.org/v10?query=108717at2157	50S ribosomal protein L18
+109335at2157	Complete	ptg000002l	170127	170687	+	118.3	150	https://www.orthodb.org/v10?query=109335at2157	Ribosomal protein L19/L19e
+110798at2157	Fragmented	ptg000005l	163912	164505	-	33.9	40	https://www.orthodb.org/v10?query=110798at2157	adenylate kinase
+111803at2157	Complete	ptg000017l	593909	596425	-	111.1	353	https://www.orthodb.org/v10?query=111803at2157	Ribonuclease Z
+112466at2157	Missing
+112720at2157	Fragmented	ptg000002l	580638	581342	-	41.4	68	https://www.orthodb.org/v10?query=112720at2157	30S ribosomal protein S6e
+113971at2157	Complete	ptg000011l	81475	81834	+	80.7	74	https://www.orthodb.org/v10?query=113971at2157	50S ribosomal protein L23
+114285at2157	Fragmented	ptg000006l	678497	678775	-	116.0	88	https://www.orthodb.org/v10?query=114285at2157	30S ribosomal protein S11
+114541at2157	Duplicated	ptg000009l	103336	103716	+	85.1	75	https://www.orthodb.org/v10?query=114541at2157	50S ribosomal protein L7Ae
+114541at2157	Duplicated	ptg000005l	87919	88440	+	74.7	95	https://www.orthodb.org/v10?query=114541at2157	50S ribosomal protein L7Ae
+115384at2157	Complete	ptg000005l	323165	323449	+	40.5	47	https://www.orthodb.org/v10?query=115384at2157	50S ribosomal protein L31e
+115425at2157	Duplicated	ptg000005l	307387	307737	-	94.3	96	https://www.orthodb.org/v10?query=115425at2157	Ribosomal protein S5 domain 2-type fold
+115425at2157	Duplicated	ptg000007l	530805	531155	+	94.3	96	https://www.orthodb.org/v10?query=115425at2157	Ribosomal protein S5 domain 2-type fold
+115808at2157	Fragmented	ptg000002l	40457	41839	+	47.4	143	https://www.orthodb.org/v10?query=115808at2157	Geranylgeranyl reductase
+115947at2157	Complete	ptg000002l	114112	114738	-	86.2	78	https://www.orthodb.org/v10?query=115947at2157	Peptidyl-tRNA hydrolase
+116294at2157	Duplicated	ptg000002l	89835	90437	-	47.5	87	https://www.orthodb.org/v10?query=116294at2157	30S ribosomal protein S8e
+116294at2157	Duplicated	ptg000009l	364385	364987	+	47.5	87	https://www.orthodb.org/v10?query=116294at2157	30S ribosomal protein S8e
+116732at2157	Missing
+116879at2157	Missing
+117225at2157	Duplicated	ptg000007l	52002	52682	+	63.0	118	https://www.orthodb.org/v10?query=117225at2157	Orotate phosphoribosyltransferase
+117225at2157	Duplicated	ptg000007l	784650	785333	-	62.5	121	https://www.orthodb.org/v10?query=117225at2157	Orotate phosphoribosyltransferase
+117241at2157	Missing
+119044at2157	Missing
+119723at2157	Missing
+121171at2157	Missing
+121548at2157	Duplicated	ptg000011l	643994	644197	-	65.6	58	https://www.orthodb.org/v10?query=121548at2157	30S ribosomal protein S28e
+121548at2157	Duplicated	ptg000013l	206637	206840	+	65.6	58	https://www.orthodb.org/v10?query=121548at2157	30S ribosomal protein S28e
+121943at2157	Complete	ptg000007l	53095	53916	-	34.9	46	https://www.orthodb.org/v10?query=121943at2157	signal recognition particle
+122290at2157	Missing
+123463at2157	Complete	ptg000002l	537287	537934	-	34.7	47	https://www.orthodb.org/v10?query=123463at2157	DNA-directed RNA polymerase subunit H
+123503at2157	Missing
+123853at2157	Missing
+123859at2157	Complete	ptg000011l	733509	733721	+	65.1	52	https://www.orthodb.org/v10?query=123859at2157	DNA-directed RNA polymerase subunit N
+124073at2157	Complete	ptg000012l	77304	77633	-	14.3	64	https://www.orthodb.org/v10?query=124073at2157	Elongation factor 1-beta
+124429at2157	Missing
+124805at2157	Duplicated	ptg000009l	307839	308198	+	42.7	80	https://www.orthodb.org/v10?query=124805at2157	30S ribosomal protein S24e
+124805at2157	Duplicated	ptg000016l	220095	220454	+	42.7	80	https://www.orthodb.org/v10?query=124805at2157	30S ribosomal protein S24e
+124913at2157	Missing
+124973at2157	Missing
+125162at2157	Complete	ptg000004l	152300	152899	+	43.7	42	https://www.orthodb.org/v10?query=125162at2157	50S ribosomal protein L24
+125788at2157	Missing
+126193at2157	Complete	ptg000003l	36902	37117	-	67.0	45	https://www.orthodb.org/v10?query=126193at2157	DNA-directed RNA polymerase subunit K
+127293at2157	Missing
+128227at2157	Duplicated	ptg000007l	209856	210221	+	51.6	39	https://www.orthodb.org/v10?query=128227at2157	30S ribosomal protein S17e
+128227at2157	Duplicated	ptg000005l	1335179	1335544	-	51.6	39	https://www.orthodb.org/v10?query=128227at2157	30S ribosomal protein S17e
+128960at2157	Complete	ptg000005l	1394927	1395523	+	19.3	59	https://www.orthodb.org/v10?query=128960at2157	ribonuclease P
+129321at2157	Complete	ptg000011l	316422	316784	-	53.2	60	https://www.orthodb.org/v10?query=129321at2157	DNA-directed RNA polymerase subunit L
+129447at2157	Complete	ptg000015l	144794	145132	-	51.7	42	https://www.orthodb.org/v10?query=129447at2157	30S ribosomal protein S27e
+129924at2157	Missing
+130316at2157	Complete	ptg000007l	385016	385585	-	23.9	67	https://www.orthodb.org/v10?query=130316at2157	DNA-binding protein
+130364at2157	Complete	ptg000015l	242579	242755	+	29.2	28	https://www.orthodb.org/v10?query=130364at2157	Ribosome biogenesis protein Nop10
+131584at2157	Missing

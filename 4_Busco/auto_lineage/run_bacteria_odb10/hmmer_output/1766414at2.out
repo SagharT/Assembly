@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000002l_357       -            279 1766414at2           -             99   2.9e-23   81.2   0.8   1   1     3e-26   8.4e-23   79.7   0.8     1    99   156   278   156   278 0.81 # 524185 # 525021 # 1 # ID=2_357;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+ptg000005l_213       -            117 1766414at2           -             99   4.1e-10   39.0   2.1   1   2   9.2e-10   2.6e-06   26.8   0.2    33    84    30    80    10    88 0.80 # 307387 # 307737 # -1 # ID=5_213;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+ptg000005l_213       -            117 1766414at2           -             99   4.1e-10   39.0   2.1   2   2   9.4e-06     0.027   14.0   0.3    61    99    78   116    72   116 0.88 # 307387 # 307737 # -1 # ID=5_213;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+ptg000007l_347       -            117 1766414at2           -             99   4.1e-10   39.0   2.1   1   2   9.2e-10   2.6e-06   26.8   0.2    33    84    30    80    10    88 0.80 # 530805 # 531155 # 1 # ID=7_347;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+ptg000007l_347       -            117 1766414at2           -             99   4.1e-10   39.0   2.1   2   2   9.4e-06     0.027   14.0   0.3    61    99    78   116    72   116 0.88 # 530805 # 531155 # 1 # ID=7_347;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/1766414at2.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_bacteria_odb10/hmmer_output/1766414at2.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/bacteria_odb10/hmms/1766414at2.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 23:00:37 2023
+# [ok]

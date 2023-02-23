@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000008l_115       -            241 63341at2157          -            175   4.2e-47  158.9   0.1   1   2   4.2e-50   1.2e-46  157.4   0.0    25   168    22   170    17   172 0.95 # 172484 # 173206 # -1 # ID=8_115;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436
+ptg000008l_115       -            241 63341at2157          -            175   4.2e-47  158.9   0.1   2   2      0.29   8.2e+02   -1.7   0.0   102   123   185   207   180   210 0.67 # 172484 # 173206 # -1 # ID=8_115;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436
+ptg000004l_142       -            197 63341at2157          -            175   5.5e-40  135.7   0.2   1   2   3.3e-43   9.3e-40  134.9   0.0    50   168     3   126     1   128 0.94 # 222557 # 223147 # 1 # ID=4_142;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.440
+ptg000004l_142       -            197 63341at2157          -            175   5.5e-40  135.7   0.2   2   2      0.85   2.4e+03   -3.2   0.0   102   123   141   162   136   164 0.79 # 222557 # 223147 # 1 # ID=4_142;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.440
+ptg000015l_64        -            395 63341at2157          -            175     9e-19   66.6   0.1   1   2   8.2e-12   2.3e-08   32.7   0.0     4   100   183   283   181   289 0.87 # 90512 # 91696 # 1 # ID=15_64;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.430
+ptg000015l_64        -            395 63341at2157          -            175     9e-19   66.6   0.1   2   2   1.6e-11   4.7e-08   31.7   0.0    98   166   311   379   293   387 0.90 # 90512 # 91696 # 1 # ID=15_64;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.430
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/63341at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/63341at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/63341at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:43 2023
+# [ok]

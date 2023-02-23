@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ptg000017l_369       -            640 119044at2157         -            177   9.5e-05   21.0   0.0   1   1   1.6e-07   0.00023   19.7   0.0    43    93   485   536   473   549 0.84 # 556574 # 558493 # 1 # ID=17_369;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+ptg000002l_203       -            349 119044at2157         -            177    0.0016   17.0   0.0   1   1   2.2e-06    0.0031   16.1   0.0    44    86    56    99    43   106 0.77 # 295708 # 296754 # -1 # ID=2_203;partial=00;start_type=ATG;rbs_motif=AAGAA;rbs_spacer=4bp;gc_cont=0.406
+ptg000016l_162       -            250 119044at2157         -            177    0.0016   17.0   0.0   1   1   2.2e-06    0.0031   16.1   0.0    45    93    84   135    70   145 0.84 # 209290 # 210039 # -1 # ID=16_162;partial=00;start_type=ATG;rbs_motif=AAAAAA;rbs_spacer=5bp;gc_cont=0.427
+ptg000015l_352       -            297 119044at2157         -            177    0.0069   14.9   0.0   1   1   7.8e-06     0.011   14.3   0.0    46    89    43    87    28    99 0.80 # 520317 # 521207 # 1 # ID=15_352;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+ptg000005l_484       -           1589 119044at2157         -            177      0.01   14.4   0.0   1   1   1.6e-05     0.022   13.3   0.0    72   138   679   745   655   773 0.82 # 684771 # 689537 # 1 # ID=5_484;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+ptg000011l_102       -            317 119044at2157         -            177     0.062   11.8   0.0   1   1     9e-05      0.13   10.8   0.0    49    89   129   172   114   180 0.84 # 132821 # 133771 # -1 # ID=11_102;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.409
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/119044at2157.hmm
+# Target file:     /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/inf-41-2022/Assembly/Busco/auto_lineage/run_archaea_odb10/hmmer_output/119044at2157.out --cpu 1 /home/inf-41-2022/Assembly/busco_downloads/lineages/archaea_odb10/hmms/119044at2157.hmm /home/inf-41-2022/Assembly/Busco/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/inf-41-2022/Assembly
+# Date:            Thu Feb 23 22:59:36 2023
+# [ok]
