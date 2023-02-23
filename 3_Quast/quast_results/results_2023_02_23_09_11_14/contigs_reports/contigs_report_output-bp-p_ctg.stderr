@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.263*1.02] collected minimizers
+[M::mm_idx_gen::0.320*3.19] sorted minimizers
+[M::main::0.320*3.19] loaded/built the index for 17 target sequence(s)
+[M::mm_mapopt_update::0.356*2.97] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 17
+[M::mm_idx_stat::0.385*2.82] distinct minimizers: 1149976 (98.19% are singletons); average occurrences: 1.058; average spacing: 9.989
+[M::worker_pipeline::0.902*5.58] mapped 36 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /home/inf-41-2022/miniconda3/envs/quast_env/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 64 /home/inf-41-2022/Assembly/quast_results/results_2023_02_23_09_11_14/quast_corrected_input/GCF_000146045.2_R64_genomic.fna /home/inf-41-2022/Assembly/quast_results/results_2023_02_23_09_11_14/quast_corrected_input/output_bp_p_ctg.fa
+[M::main] Real time: 0.924 sec; CPU: 5.057 sec

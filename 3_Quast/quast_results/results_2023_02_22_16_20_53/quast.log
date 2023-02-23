@@ -1,0 +1,23 @@
+/home/inf-41-2022/miniconda3/envs/quast_env/bin/quast 2_assembly/output.bp.p_ctg.gfa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-6.0.17-200.fc36.x86_64-x86_64-with-fedora-36-Thirty_Six (linux_64)
+  Python version: 3.6.13
+  CPUs number: 256
+
+Started: 2023-02-22 16:20:53
+
+Logging to /home/inf-41-2022/Assembly/quast_results/results_2023_02_22_16_20_53/quast.log
+NOTICE: Maximum number of threads is set to 64 (use --threads option to set it manually)
+
+CWD: /home/inf-41-2022/Assembly
+Main parameters: 
+  MODE: default, threads: 64, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping 2_assembly/output.bp.p_ctg.gfa because >sequence_name field is empty.

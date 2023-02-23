@@ -1,0 +1,21 @@
+Assembly	output.bp.p_ctg
+# misassemblies	111
+  # contig misassemblies	111
+    # c. relocations	47
+    # c. translocations	63
+    # c. inversions	1
+  # scaffold misassemblies	0
+    # s. relocations	0
+    # s. translocations	0
+    # s. inversions	0
+# misassembled contigs	32
+Misassembled contigs length	12442882
+# local misassemblies	68
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# mismatches	26668
+# indels	2928
+    # indels (<= 5 bp)	2473
+    # indels (> 5 bp)	455
+Indels length	14382
