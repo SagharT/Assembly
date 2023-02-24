@@ -1,0 +1,2 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	sequence_length_distribution	Sequence length	File type	basic_statistics	per_sequence_gc_content	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_sequence_quality_scores
+SRR13577846	pass	0.0	pass	9391.45693257	Sanger / Illumina 1.9	pass	warn	154-14500	Conventional base calls	pass	fail	117525.0	pass	fail	pass	38.0	99.1460534413	SRR13577846.fastq.gz	pass

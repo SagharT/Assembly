@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR13577846	/home/inf-41-2022/Assembly/1_QC/SRR13577846_fastqc.zip
+QUAST	all_sections	output.bp.p_ctg	/home/inf-41-2022/Assembly/3_Quast/quast_results/latest/report.tsv

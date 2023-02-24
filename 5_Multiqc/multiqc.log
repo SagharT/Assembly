@@ -1,0 +1,87 @@
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/inf-41-2022/miniconda3/envs/multiqc/lib/python2.7/site-packages/multiqc-1.0.dev0-py2.7.egg/multiqc_config.yaml
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/inf-41-2022/.multiqc_config.yaml
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  Command used: /home/inf-41-2022/miniconda3/envs/multiqc/bin/multiqc ./
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check
+[2023-02-24 10:11:16,079] multiqc                                            [INFO   ]  This is MultiQC v1.0.dev0
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  Command     : /home/inf-41-2022/miniconda3/envs/multiqc/bin/multiqc ./
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  Working dir : /home/inf-41-2022/Assembly
+[2023-02-24 10:11:16,079] multiqc                                            [INFO   ]  Template    : default
+[2023-02-24 10:11:16,079] multiqc                                            [INFO   ]  Searching './'
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, peddy, methylQA, qualimap, preseq, quast, rseqc, busco, goleft_indexcov, snpeff, gatk, htseq, bcftools, featureCounts, picard, prokka, samblaster, samtools, bamtools, bismark, hicup, salmon, kallisto, slamdunk, star, tophat, bowtie2, bowtie1, cutadapt, trimmomatic, skewer, fastq_screen, fastqc, clusterflow
+[2023-02-24 10:11:16,079] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmphoKEKb
+[2023-02-24 10:11:16,087] multiqc                                            [DEBUG  ]  Ignoring file as too large: output_bp_p_ctg.mis_contigs.fa
+[2023-02-24 10:11:16,087] multiqc                                            [DEBUG  ]  Ignoring file as is encoded: output-bp-p_ctg.used_snps.gz
+[2023-02-24 10:11:16,088] multiqc                                            [DEBUG  ]  Ignoring file as too large: output_bp_p_ctg.mis_contigs.fa
+[2023-02-24 10:11:16,089] multiqc                                            [DEBUG  ]  Ignoring file as is encoded: output-bp-p_ctg.used_snps.gz
+[2023-02-24 10:11:16,089] multiqc                                            [DEBUG  ]  Ignoring file as too large: GCF_000146045.2_R64_genomic.fna
+[2023-02-24 10:11:16,138] multiqc                                            [DEBUG  ]  Ignoring file as too large: output_alignment_masked.fasta
+[2023-02-24 10:11:16,138] multiqc                                            [DEBUG  ]  Ignoring file as too large: output_alignment.fasta
+[2023-02-24 10:11:16,138] multiqc                                            [DEBUG  ]  Ignoring file as too large: predicted.fna
+[2023-02-24 10:11:16,138] multiqc                                            [DEBUG  ]  Ignoring file as too large: prodigal_mode_single_code_4.fna
+[2023-02-24 10:11:16,138] multiqc                                            [DEBUG  ]  Ignoring file as too large: prodigal_mode_single_code_11.fna
+[2023-02-24 10:11:16,369] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: SRR13577846.fastq.gz
+[2023-02-24 10:11:16,477] multiqc                                            [DEBUG  ]  Ignoring file as too large: 5e1a6806ed84742428ae4c97483117c71f2c4b
+[2023-02-24 10:11:16,493] multiqc                                            [DEBUG  ]  Ignoring file as too large: f4e35cf101b0a5eaf9dc75b9f6907fdc913f81
+[2023-02-24 10:11:16,647] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.ovlp.source.bin
+[2023-02-24 10:11:16,647] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: output.bp.hap2.p_ctg.lowQ.bed
+[2023-02-24 10:11:16,647] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.bp.hap2.p_ctg.gfa
+[2023-02-24 10:11:16,647] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: output.bp.hap1.p_ctg.lowQ.bed
+[2023-02-24 10:11:16,647] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.bp.r_utg.gfa
+[2023-02-24 10:11:16,647] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: output.bp.p_ctg.lowQ.bed
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: output.bp.p_utg.lowQ.bed
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.bp.p_ctg.gfa
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.bp.p_ctg.fa
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.bp.p_utg.gfa
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.bp.hap1.p_ctg.gfa
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.ovlp.reverse.bin
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: output.ec.bin
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: output.bp.r_utg.lowQ.bed
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: ancestral_variants
+[2023-02-24 10:11:16,648] multiqc                                            [DEBUG  ]  Ignoring file as too large: refseq_db.faa
+[2023-02-24 10:11:16,769] multiqc                                            [DEBUG  ]  Ignoring file as too large: refseq_db.faa
+[2023-02-24 10:11:16,787] multiqc                                            [DEBUG  ]  Ignoring file as too large: ogs.id.info
+[2023-02-24 10:11:16,787] multiqc                                            [DEBUG  ]  Ignoring file as too large: supermatrix.aln.eukaryota_odb10.2019-12-16.faa
+[2023-02-24 10:11:19,248] multiqc.modules.custom_content.custom_content      [DEBUG  ]  No custom content found
+[2023-02-24 10:11:22,980] multiqc.modules.peddy.peddy                        [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:11:23,920] multiqc.modules.methylQA.methylQA                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:11:23,922] multiqc.modules.qualimap.QM_BamQC                  [DEBUG  ]  Using default Qualimap thresholds: 1, 5, 10, 30, 50
+[2023-02-24 10:11:29,533] multiqc.modules.qualimap.qualimap                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:11:42,171] multiqc.modules.preseq.preseq                      [DEBUG  ]  Could not find any preseq data in ('./',)
+[2023-02-24 10:11:42,176] multiqc.modules.quast.quast                        [DEBUG  ]  Duplicate sample name found! Overwriting: output.bp.p_ctg
+[2023-02-24 10:11:43,106] multiqc.modules.quast.quast                        [INFO   ]  Found 1 reports
+[2023-02-24 10:12:22,563] multiqc.modules.rseqc.rseqc                        [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:12:23,496] multiqc.modules.busco.busco                        [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:12:25,354] multiqc.modules.goleft_indexcov.goleft_indexcov    [DEBUG  ]  Did not find goleft indexcov outputs in ('./',)
+[2023-02-24 10:12:33,703] multiqc.modules.snpeff.snpeff                      [DEBUG  ]  Could not find any data in ('./',)
+[2023-02-24 10:12:42,151] multiqc.modules.gatk.gatk                          [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:12:50,516] multiqc.modules.htseq.htseq                        [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:12:59,148] multiqc.modules.bcftools.bcftools                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:13:00,079] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:14:30,079] multiqc.modules.picard.picard                      [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:14:31,010] multiqc.modules.prokka.prokka                      [DEBUG  ]  Could not find any Prokka data in ('./',)
+[2023-02-24 10:14:39,437] multiqc.modules.samblaster.samblaster              [DEBUG  ]  Could not find any data in ('./',)
+[2023-02-24 10:15:05,950] multiqc.modules.samtools.samtools                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:15:14,415] multiqc.modules.bamtools.bamtools                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:15:19,047] multiqc.modules.bismark.bismark                    [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:15:19,969] multiqc.modules.hicup.hicup                        [DEBUG  ]  Could not find any HiCUP data in ('./',)
+[2023-02-24 10:15:21,826] multiqc.modules.salmon.salmon                      [DEBUG  ]  Could not find any Salmon data in ('./',)
+[2023-02-24 10:15:30,483] multiqc.modules.kallisto.kallisto                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:16:21,385] multiqc.modules.slamdunk.slamdunk                  [DEBUG  ]  No slamdunk reports found.
+[2023-02-24 10:16:23,232] multiqc.modules.star.star                          [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:16:24,160] multiqc.modules.tophat.tophat                      [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:16:32,543] multiqc.modules.bowtie2.bowtie2                    [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:16:40,960] multiqc.modules.bowtie1.bowtie1                    [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:16:49,370] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:16:57,693] multiqc.modules.trimmomatic.trimmomatic            [DEBUG  ]  Could not find any Trimmomatic data in ('./',)
+[2023-02-24 10:17:06,288] multiqc.modules.skewer.skewer                      [DEBUG  ]  Could not find any data in ('./',)
+[2023-02-24 10:17:07,222] multiqc.modules.fastq_screen.fastq_screen          [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:17:09,089] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 1 reports
+[2023-02-24 10:17:11,919] multiqc.modules.clusterflow.clusterflow            [DEBUG  ]  Could not find any reports in ('./',)
+[2023-02-24 10:17:11,920] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2023-02-24 10:17:11,920] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2023-02-24 10:17:11,920] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmphoKEKb/multiqc_data/multiqc_sources.txt' to '/home/inf-41-2022/Assembly/multiqc_data'
+[2023-02-24 10:17:11,921] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmphoKEKb/multiqc_data/multiqc_general_stats.txt' to '/home/inf-41-2022/Assembly/multiqc_data'
+[2023-02-24 10:17:11,921] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmphoKEKb/multiqc_data/multiqc_fastqc.txt' to '/home/inf-41-2022/Assembly/multiqc_data'
+[2023-02-24 10:17:11,921] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmphoKEKb/multiqc_data/multiqc_quast.txt' to '/home/inf-41-2022/Assembly/multiqc_data'
+[2023-02-24 10:17:11,986] multiqc                                            [INFO   ]  MultiQC complete
